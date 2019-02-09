@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="options">
-        <item>Drings</item>
+        <item>Drinks</item>
         <item>Food</item>
         <item>Stores</item>
     </string-array>
